@@ -5,7 +5,6 @@ public class isPalindrome {
         String s="abcba";
         boolean result=isPalindrome(s,0,s.length()-1);
         System.out.println(result);
-
     }
 
     private static boolean isPalindrome(String s,int i,int j){
