@@ -1,15 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9984dfb-e00e-40ae-b42f-acd3a4a9dc36" name="Default Changelist" comment="" />
+    <list default="true" id="c9984dfb-e00e-40ae-b42f-acd3a4a9dc36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/CombinationsOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/DictionaryWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/NQueensProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/PermutationsOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/recursion/DigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dynamicprogramming" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1aCYsSJGLkhZr4net9FHIyImzzu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DictionaryWords">
+    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.Anagrams" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.CombinationSum" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombinationsOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.CombinationsOfArray" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.DictionaryWords" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationsOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.PermutationsOfArray" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DictionaryWords" />
+        <item itemvalue="Application.Anagrams" />
+        <item itemvalue="Application.PermutationsOfArray" />
+        <item itemvalue="Application.CombinationSum" />
+        <item itemvalue="Application.CombinationsOfArray" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -33,7 +149,108 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586241248025</updated>
+      <workItem from="1586332591599" duration="14168000" />
     </task>
+    <task id="LOCAL-00001" summary="added palindrome check">
+      <created>1586335460646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586335460646</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added sequence check">
+      <created>1586338640850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586338640850</updated>
+    </task>
+    <task id="LOCAL-00003" summary="remove spaces">
+      <created>1586338693823</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586338693823</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added palindrome check" />
+    <MESSAGE value="added sequence check" />
+    <MESSAGE value="remove spaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove spaces" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="165" key="CommitChangelistDialog2" timestamp="1586338693684">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="417" y="165" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1586338693684" />
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1586336436798">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586336436798" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1587060912494">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587060912494" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1587060912490">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587060912490" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1587060912489">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587060912489" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1587060912492">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587060912492" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1587028290018">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587028290018" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1587028290016">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587028290016" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1587028290015">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587028290015" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1587028290017">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587028290017" />
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1586338725836">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1586338725836" />
+    <state x="545" y="360" key="git4idea.merge.GitPullDialog" timestamp="1586335803350">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="545" y="360" key="git4idea.merge.GitPullDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586335803350" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1586338359876">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1586338359876" />
+    <state x="273" y="261" key="new project wizard" timestamp="1586854926252">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="273" y="261" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1586854926252" />
   </component>
 </project>
