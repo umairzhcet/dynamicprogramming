@@ -4,12 +4,16 @@ import java.util.*;
 
 public class CombinationSum {
 
+
+
     public static void main(String[] args) {
-        int[] array={10,1,2,7,6,1,5};
+        int[] array={2,3,6,7};
         Arrays.sort(array);
-        int target=8;
+        int target=9;
         List partial=new ArrayList<Integer>();
         combinations(array,target,partial,0,0);
+
+
 
     }
 
@@ -31,6 +35,11 @@ public class CombinationSum {
             combinations(array,target,partial,sum+temp,i+1);
             partial.remove(partial.size()-1);
 
+
+
         }
     }
+
+
+
 }

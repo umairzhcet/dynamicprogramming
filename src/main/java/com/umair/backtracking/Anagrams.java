@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Anagrams {
     public static void main(String[] args) {
-        String str="godg";
+        String str="god";
         char[] inputArray=str.toCharArray();
         Arrays.sort(inputArray);
         List partial=new ArrayList<String>();
