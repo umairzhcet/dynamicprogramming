@@ -1,3 +1,4 @@
 /.idea/dynamicprogramming.iml
 /.idea/vcs.xmlgit status
-/target/classes/
+/target/classes/*.class
+/target/

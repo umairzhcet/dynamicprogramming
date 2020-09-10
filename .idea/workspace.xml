@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9984dfb-e00e-40ae-b42f-acd3a4a9dc36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/Anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/CombinationsOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/DictionaryWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/NQueensProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/PermutationsOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/recursion/DigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestIncreasingBitonicSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/recursion/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/NQueensProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/NQueensProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/Anagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/CombinationSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/CombinationsOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/DictionaryWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/NQueensProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/PermutationsOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/recursion/DigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/recursion/IsInSequence.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,7 +47,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1aCYsSJGLkhZr4net9FHIyImzzu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,14 +60,38 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.DictionaryWords">
-    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.Anagrams" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.umair.recursion" />
+      <recent name="com.umair" />
+      <recent name="com.umair.dynamicprogramming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.testing">
+    <configuration name="CoinChangeMinimumWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.CoinChangeMinimumWays" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.backtracking.*" />
+          <option name="PATTERN" value="com.umair.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinChangeTotalWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.CoinChangeTotalWays" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.CombinationSum" />
+      <option name="MAIN_CLASS_NAME" value="com.umair.recursion.CombinationSum" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.backtracking.*" />
+          <option name="PATTERN" value="com.umair.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationsOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.CombinationsOfArray" />
+    <configuration name="LongestIncreasingBitonicSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.LongestIncreasingBitonicSubsequence" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.backtracking.*" />
+          <option name="PATTERN" value="com.umair.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,25 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DictionaryWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.DictionaryWords" />
+    <configuration name="testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.testing" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PermutationsOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.backtracking.PermutationsOfArray" />
-      <module name="dynamicprogramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.umair.backtracking.*" />
+          <option name="PATTERN" value="com.umair.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DictionaryWords" />
-        <item itemvalue="Application.Anagrams" />
-        <item itemvalue="Application.PermutationsOfArray" />
+        <item itemvalue="Application.testing" />
+        <item itemvalue="Application.CoinChangeTotalWays" />
+        <item itemvalue="Application.LongestIncreasingBitonicSubsequence" />
+        <item itemvalue="Application.CoinChangeMinimumWays" />
         <item itemvalue="Application.CombinationSum" />
-        <item itemvalue="Application.CombinationsOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +170,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586241248025</updated>
-      <workItem from="1586332591599" duration="14168000" />
+      <workItem from="1586332591599" duration="14591000" />
+      <workItem from="1587991117436" duration="375000" />
+      <workItem from="1589266984728" duration="504000" />
+      <workItem from="1589556872579" duration="117837000" />
+      <workItem from="1592099201489" duration="6778000" />
+      <workItem from="1592995476248" duration="60349000" />
+      <workItem from="1594381953309" duration="8582000" />
+      <workItem from="1596758211006" duration="1720000" />
+      <workItem from="1599739628915" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="added palindrome check">
       <created>1586335460646</created>
@@ -172,7 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586338693823</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="removed .classes">
+      <created>1589976092468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589976092468</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added DP problems">
+      <created>1589976166462</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589976166462</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +226,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -193,64 +238,234 @@
     <MESSAGE value="added palindrome check" />
     <MESSAGE value="added sequence check" />
     <MESSAGE value="remove spaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove spaces" />
+    <MESSAGE value="removed .classes" />
+    <MESSAGE value="added DP problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="added DP problems" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="417" y="165" key="CommitChangelistDialog2" timestamp="1586338693684">
+    <state x="496" y="227" key="#Project_Structure" timestamp="1593015122969">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="417" y="165" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1586338693684" />
-    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1586336436798">
+    <state x="496" y="227" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1593015122969" />
+    <state x="360" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589614892158">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586336436798" />
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1587060912494">
+    <state x="360" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1589614892158" />
+    <state x="709" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1592898836256">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587060912494" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1587060912490">
+    <state x="709" y="272" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1592898836256" />
+    <state x="634" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591143187549">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587060912490" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1587060912489">
+    <state x="634" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1591143187549" />
+    <state x="659" y="273" key="#xdebugger.evaluate" timestamp="1593681325057">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587060912489" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1587060912492">
+    <state x="659" y="273" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1593681325057" />
+    <state x="417" y="165" key="CommitChangelistDialog2" timestamp="1589976166332">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587060912492" />
-    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1587028290018">
+    <state x="417" y="165" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1589976166332" />
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1590082695102">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587028290018" />
-    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1587028290016">
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1590082695102" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1598192247244">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596870471673" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1598192247244" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1598192247240">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596870471668" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1034@0.23.1792.1034" timestamp="1598192247240" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1598192247239">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596870471666" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1034@0.23.1792.1034" timestamp="1598192247239" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1598192247242">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596870471670" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1598192247242" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1594943081999">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587028290016" />
-    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1587028290015">
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1594943081999" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1594943081994">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587028290015" />
-    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1587028290017">
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1594943081994" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1594943081991">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587028290017" />
-    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1586338725836">
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1594943081991" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1594943081996">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1586338725836" />
-    <state x="545" y="360" key="git4idea.merge.GitPullDialog" timestamp="1586335803350">
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1594943081996" />
+    <state x="397" y="198" key="SettingsEditor" timestamp="1593015210544">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="545" y="360" key="git4idea.merge.GitPullDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586335803350" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1586338359876">
+    <state x="397" y="198" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1593015210544" />
+    <state x="551" y="324" width="689" height="472" key="find.popup" timestamp="1591364746734">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="600" height="424" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1586338359876" />
-    <state x="273" y="261" key="new project wizard" timestamp="1586854926252">
+    <state x="551" y="324" width="689" height="472" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1591364746734" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1593803649760">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="273" y="261" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1586854926252" />
+    <state width="600" height="424" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1593803649760" />
+    <state x="1090" y="183" key="refactoring.ChangeSignatureDialog" timestamp="1589960954294">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="1090" y="183" key="refactoring.ChangeSignatureDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1589960954294" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/RodCuttingInterviewBit.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/backtracking/NQueensProblem.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/ZigZagTreeTraversal.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/LinkedListReversal.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/LinkedListReversal.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/TestExam.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/LargestRectangleInHistogram.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/MaximumRectangleBinaryMatrix.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/KSortedArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/MinimumInRotatedArray.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/MinimumInRotatedArray.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/ElementInRotatedArray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/ThreeSum.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/Heaters.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/Heaters.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/TestDeclare.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/StockPrediction.java</url>
+          <line>235</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/BusStand.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/AllocateMinimumPages.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/AllocateMinimumPages.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/MergeKSortedList.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/MergeKSortedList.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/MergeKSortedList.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/recursion/ReverseStack.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/recursion/PermutationsWithSpaces.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/MinimumSubsetSumDifference.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/ThreeSum.java</url>
+          <line>8</line>
+          <properties class="com.umair.ThreeSum" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

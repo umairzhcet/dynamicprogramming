@@ -1,33 +1,39 @@
 package com.umair.dynamicprogramming;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class LongestIncreasingSubsequence {
 
     public static void main(String[] args) {
 
-        Integer[] array={5,2,7,3,6,8};
+        Integer[] array={7, 6, 8, 10, 2, 5, 12, 30, 31, 20, 22,18};
         int cache[]=new int[array.length];
-        System.out.println(recursiveSol(array,array.length-1,cache));
+        System.out.println(rec(array,array.length-1,cache));
+
+
 
         //DP method
 
 
-        int dp[]=new int[array.length+1];
+        int dp[]=new int[array.length];
         dp[0]=1;
+        int max=1;
         for(int i=1;i<array.length;i++){
-
-            dp[i]=1;
+           dp[i]=1;
             for(int j=0;j<i;j++){
-                int lis=dp[j];
-                if(array[i]>array[j]){
-                    lis+=1;
+                if(array[i]>array[j]) {
+                    dp[i] = Math.max(dp[i], dp[j]+1);
                 }
-                dp[i]=Math.max(dp[i],lis);
             }
+            max=Math.max(max,dp[i]);
         }
-        System.out.println(dp[array.length-1]);
+       System.out.println(max);
+
+
     }
 
-    private static int recursiveSol(Integer[] array, int index, int[] cache) {
+    private static int rec(Integer[] array, int index, int[] cache) {
 
 
         if(index==0){
@@ -36,16 +42,18 @@ public class LongestIncreasingSubsequence {
         if(cache[index]!=0){
             return cache[index];
         }
-        int max=0;
+        int max=1;
         for(int j=0;j<index;j++){
-            int lis=recursiveSol(array,j, cache);
+            int lis=rec(array,j, cache);
             if(array[index]>array[j]){
                 lis+=1;
             }
             max=Math.max(max,lis);
+
         }
-        return cache[index]=max;
+      return cache[index]=max;
     }
+
 
 
 }
