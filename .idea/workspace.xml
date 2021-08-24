@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9984dfb-e00e-40ae-b42f-acd3a4a9dc36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestIncreasingBitonicSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/recursion/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c9984dfb-e00e-40ae-b42f-acd3a4a9dc36" name="Default Changelist" comment="added DP problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/NQueensProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/NQueensProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/Anagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/CombinationSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/CombinationsOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/DictionaryWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/NQueensProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/backtracking/PermutationsOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/recursion/DigitSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/umair/recursion/IsInSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamicprogramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/SubsetSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +31,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1aCYsSJGLkhZr4net9FHIyImzzu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -52,29 +45,30 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.umair.dynamicprogramming" />
       <recent name="com.umair.recursion" />
       <recent name="com.umair" />
-      <recent name="com.umair.dynamicprogramming" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testing">
-    <configuration name="CoinChangeMinimumWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.CoinChangeMinimumWays" />
+  <component name="RunManager" selected="Application.LongestPalindromicSubsequence">
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.LongestCommonSubsequence" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinChangeTotalWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.CoinChangeTotalWays" />
+    <configuration name="LongestCommonSubsequencePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.LongestCommonSubsequencePrint" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
@@ -99,21 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.recursion.CombinationSum" />
-      <module name="dynamicprogramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.umair.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestIncreasingBitonicSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.LongestIncreasingBitonicSubsequence" />
+    <configuration name="LongestCommonSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.LongestCommonSubstring" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
@@ -125,12 +106,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.testing" />
+    <configuration name="LongestPalindromicSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.LongestPalindromicSubsequence" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.*" />
+          <option name="PATTERN" value="com.umair.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RodCutting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.dynamicprogramming.RodCutting" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testing" />
-        <item itemvalue="Application.CoinChangeTotalWays" />
-        <item itemvalue="Application.LongestIncreasingBitonicSubsequence" />
-        <item itemvalue="Application.CoinChangeMinimumWays" />
-        <item itemvalue="Application.CombinationSum" />
+        <item itemvalue="Application.LongestPalindromicSubsequence" />
+        <item itemvalue="Application.LongestCommonSubsequencePrint" />
+        <item itemvalue="Application.LongestCommonSubstring" />
+        <item itemvalue="Application.LongestCommonSubsequence" />
+        <item itemvalue="Application.RodCutting" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +154,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -226,13 +221,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added palindrome check" />
@@ -241,88 +235,6 @@
     <MESSAGE value="removed .classes" />
     <MESSAGE value="added DP problems" />
     <option name="LAST_COMMIT_MESSAGE" value="added DP problems" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="496" y="227" key="#Project_Structure" timestamp="1593015122969">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="496" y="227" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1593015122969" />
-    <state x="360" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589614892158">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="360" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1589614892158" />
-    <state x="709" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1592898836256">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="709" y="272" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1592898836256" />
-    <state x="634" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591143187549">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="634" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1591143187549" />
-    <state x="659" y="273" key="#xdebugger.evaluate" timestamp="1593681325057">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="659" y="273" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1593681325057" />
-    <state x="417" y="165" key="CommitChangelistDialog2" timestamp="1589976166332">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="417" y="165" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1589976166332" />
-    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1590082695102">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1590082695102" />
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1598192247244">
-      <screen x="0" y="23" width="1792" height="1034" />
-    </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596870471673" />
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1598192247244" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1598192247240">
-      <screen x="0" y="23" width="1792" height="1034" />
-    </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596870471668" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1034@0.23.1792.1034" timestamp="1598192247240" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1598192247239">
-      <screen x="0" y="23" width="1792" height="1034" />
-    </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596870471666" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1034@0.23.1792.1034" timestamp="1598192247239" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1598192247242">
-      <screen x="0" y="23" width="1792" height="1034" />
-    </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596870471670" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1598192247242" />
-    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1594943081999">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1594943081999" />
-    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1594943081994">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1594943081994" />
-    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1594943081991">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1594943081991" />
-    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1594943081996">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1594943081996" />
-    <state x="397" y="198" key="SettingsEditor" timestamp="1593015210544">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="397" y="198" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1593015210544" />
-    <state x="551" y="324" width="689" height="472" key="find.popup" timestamp="1591364746734">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="551" y="324" width="689" height="472" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1591364746734" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1593803649760">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="600" height="424" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1593803649760" />
-    <state x="1090" y="183" key="refactoring.ChangeSignatureDialog" timestamp="1589960954294">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="1090" y="183" key="refactoring.ChangeSignatureDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1589960954294" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -389,7 +301,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/umair/ThreeSum.java</url>
-          <line>14</line>
+          <line>15</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -456,6 +368,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/MinimumSubsetSumDifference.java</url>
           <line>27</line>
           <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/backtracking/Anagrams.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/backtracking/Anagrams.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/backtracking/Anagrams.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/GroupAnagrams.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/umair/ThreeSum.java</url>

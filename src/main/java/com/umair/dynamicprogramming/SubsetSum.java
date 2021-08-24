@@ -6,7 +6,24 @@ public class SubsetSum {
         int[] nums={2,3,5,6,8,10};
         int sum=10;
         System.out.println(bottomUp(nums,sum));
+        System.out.println(recursiveSol(nums,sum,nums.length));
 
+    }
+
+    private static int recursiveSol(int[] nums, int sum, int length) {
+
+       if(sum==0){
+           return 1;
+       }
+       if(length==0){
+           return 0;
+       }
+       if(nums[length-1]<=sum){
+           return recursiveSol(nums,sum-nums[length-1],length-1)+recursiveSol(nums,sum,length-1);
+       }
+       else{
+           return recursiveSol(nums,sum,length-1);
+       }
     }
 
     public static int bottomUp(int[] nums,int sum){

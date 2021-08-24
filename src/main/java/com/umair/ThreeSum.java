@@ -8,7 +8,8 @@ public class ThreeSum {
 
     public static void main(String[] args) {
 
-        int nums[]={0,0,0};
+        int nums[]={3,2,1,6,0,9};
+        int sum=12;
         Arrays.sort(nums);
         List<List<Integer>> result=new ArrayList<>();
 
@@ -17,7 +18,7 @@ public class ThreeSum {
             int k = nums.length - 1;
             if(nums[i]!=nums[j]){
             while (j < k) {
-                if (nums[j] + nums[k] + nums[i] == 0) {
+                if (nums[j] + nums[k] + nums[i] == sum) {
                     List<Integer> list = new ArrayList<>();
                     list.add(nums[i]);
                     list.add(nums[j]);
