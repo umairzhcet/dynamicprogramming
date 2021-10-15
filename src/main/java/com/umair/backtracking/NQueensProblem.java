@@ -17,10 +17,6 @@ public class NQueensProblem {
                 }
                 System.out.println();
             }
-
-
-
-
     }
 
     private static boolean setQueens(int[][] chessTable, int colIndex) {
