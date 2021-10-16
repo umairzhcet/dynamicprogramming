@@ -5,54 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9984dfb-e00e-40ae-b42f-acd3a4a9dc36" name="Default Changelist" comment="added DP problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/LargestRectangleInHistogram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamicprogramming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/AllocateMinimumPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarysearch/AllocateMinimumPages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/BusStand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/BusStand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/CommonAncestor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/ElementInRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarysearch/ElementInRotatedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/FloorInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarysearch/FloorInSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/FruitsIntoBaskets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/array/FruitsIntoBaskets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/string/GroupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/Heaters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/longestcommonsubsequence/Heaters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/Inventorymanagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/multithreading/Inventorymanagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/KSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/heap/KSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/KthSymbolGramamr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/recursion/KthSymbolGramamr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/LargestRectangleInHistogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/LinkedListReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/linkedlist/LinkedListReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/MaximumRectangleBinaryMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/MaximumRectangleBinaryMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/MergeKSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/linkedlist/MergeKSortedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/MetricsPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/multithreading/MetricsPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/MinimumInRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarysearch/MinimumInRotatedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/RainWaterTrapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/array/RainWaterTrapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/RottenMangoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/bfs/RottenMangoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/StockPrediction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/StockPrediction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/StockSpan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/StockSpan2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/SubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/leetcode/SubArraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/array/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/ZigZagTreeTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarytree/ZigZagTreeTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/NQueensProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/NQueensProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/CoinChangeMinimumWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/knapsack/CoinChangeMinimumWays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/CoinChangeTotalWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/knapsack/CoinChangeTotalWays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/EqualPartitionSubset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/knapsack/EqualPartitionSubset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/HouseRobber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/knapsack/Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/longestcommonsubsequence/LongestCommonSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestCommonSubsequencePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/longestcommonsubsequence/LongestCommonSubsequencePrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/longestcommonsubsequence/LongestCommonSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestIncreasingBitonicSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/longestincreasingsubsequence/LongestIncreasingBitonicSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/longestincreasingsubsequence/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/LongestPalindromicSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/palindrome/LongestPalindromicSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/MinimumCostPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/leetcode/MinimumCostPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/MinimumSubsetSumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/knapsack/MinimumSubsetSumDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/PaintingHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/leetcode/PaintingHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/RodCutting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/leetcode/RodCutting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/RodCuttingInterviewBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/backtracking/RodCuttingInterviewBit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/knapsack/SubsetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/knapsack/TargetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,48 +65,9 @@
       <recent name="com.umair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Add2Numbers">
-    <configuration name="Add2Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.linkedlist.Add2Numbers" />
-      <module name="dynamicprogramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.umair.datastructures.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.string.FindDifference" />
-      <module name="dynamicprogramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.umair.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.heap.KthLargest" />
-      <module name="dynamicprogramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.umair.datastructures.heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PeakIndexMountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.array.PeakIndexMountain" />
+  <component name="RunManager" selected="Application.KClosestElements (1)">
+    <configuration name="ContiguousArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.array.ContiguousArray" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +79,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReOrderLogFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.string.ReOrderLogFiles" />
+    <configuration name="FourSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.array.FourSum2" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.datastructures.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KClosestElements (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.binarysearch.KClosestElements" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.datastructures.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KClosestElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.heap.KClosestElements" />
+      <module name="dynamicprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umair.datastructures.heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotBoundedCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.string.RobotBoundedCircle" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
@@ -180,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Add2Numbers" />
-        <item itemvalue="Application.ReOrderLogFiles" />
-        <item itemvalue="Application.PeakIndexMountain" />
-        <item itemvalue="Application.KthLargest" />
-        <item itemvalue="Application.FindDifference" />
+        <item itemvalue="Application.KClosestElements (1)" />
+        <item itemvalue="Application.KClosestElements" />
+        <item itemvalue="Application.FourSum2" />
+        <item itemvalue="Application.RobotBoundedCircle" />
+        <item itemvalue="Application.ContiguousArray" />
       </list>
     </recent_temporary>
   </component>
