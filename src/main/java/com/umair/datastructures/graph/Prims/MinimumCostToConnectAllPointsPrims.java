@@ -1,4 +1,4 @@
-package com.umair.datastructures.graph;
+package com.umair.datastructures.graph.Prims;
 
 import java.util.ArrayList;
 import java.util.List;

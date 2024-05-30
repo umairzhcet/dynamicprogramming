@@ -1,54 +1,95 @@
 package com.umair.datastructures.graph;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class CycleInDirectedGraph {
-//Course Schedule possible or not. Leetcode 207
     static boolean flag=true;
     public static void main(String[] args) {
 
-        int numCourses=2;
-        int[][] prerequisites={{1,0},{0,1}};
-        List<List<Integer>> graph=new ArrayList<>();
+        int N=4;
 
-        for(int i=0;i<numCourses;i++){
+        int[][] edges={{0,1},{1,2},{2,3},{3,1}};
+        ArrayList<ArrayList<Integer>> graph=new ArrayList<>();
+
+        for(int i=0;i<N;i++){
             graph.add(i,new ArrayList<>());
         }
 
-        for(int[] edge:prerequisites){
-            graph.get(edge[1]).add(edge[0]);
+        for(int[] edge:edges){
+            graph.get(edge[0]).add(edge[1]);
         }
 
-        boolean[] visited = new boolean[numCourses];
-        boolean[] cycle = new boolean[numCourses];
+        boolean[] visited = new boolean[N];
+        boolean[] inRecursion = new boolean[N];
 
-        for(int i=0;i<numCourses;i++){
+        for(int i=0;i<N;i++){
             if(!visited[i])
-                dfs(graph,i,visited,cycle);
-            if(flag==false){
-                System.out.println("Cycle is Present");
-                return;
-            }
+                System.out.println(dfs(graph,i,visited,inRecursion));
+
         }
 
-        System.out.println("Cycle is not present");
+        System.out.println(isCyclic(N,graph));
+
     }
 
-    public static void dfs(List<List<Integer>> graph, int node, boolean[] visited, boolean[] cycle){
+    public static boolean dfs(ArrayList<ArrayList<Integer>> graph, int node, boolean[] visited, boolean[] inRecursion){
 
         visited[node] = true;
-        cycle[node] = true;
+        inRecursion[node] = true;
         List<Integer> list=graph.get(node);
         for(int i=0;i<list.size();i++){
             int next=list.get(i);
-            if(cycle[next]){
-                flag=false;
-                return;
+            if(visited[next] && inRecursion[next] ){
+                //there's a cycle
+                return true;
             }
-            if(visited[next])continue;
-            dfs(graph,next,visited, cycle);
+            if(!visited[next]){
+                if(dfs(graph,next,visited,inRecursion)){
+                    return true;
+                }
+            }
+
         }
-        cycle[node]=false;
+        inRecursion[node] = false;
+        return false;
+    }
+
+    //bFS method using Kahn's algorithm to detect cycle. If topological sort is not possible, it's cyclic.
+    public static boolean isCyclic(int V, ArrayList<ArrayList<Integer>> adj) {
+
+
+        int[] inDegrees=new int[V];
+
+        Queue<Integer> queue=new LinkedList<>();
+
+        for(int i=0;i<V;i++){
+            for(int v:adj.get(i)){
+                inDegrees[v]++;
+            }
+
+        }
+
+        int count =0;
+
+        for(int i=0;i<V;i++){
+            if(inDegrees[i]==0){
+                queue.add(i);
+                count++;
+            }
+        }
+
+        while(!queue.isEmpty()){
+            int node =queue.poll();
+            for(int v:adj.get(node)){
+                inDegrees[v]--;
+                if(inDegrees[v]==0){
+                    queue.add(v);
+                    count++;
+                }
+            }
+
+        }
+
+        return count==V?false:true;
     }
 }

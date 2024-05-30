@@ -98,8 +98,6 @@ public class TestDeclare  {
             connection.disconnect();
         }
 
-
-
     }
 
     public static Double parseAmount(String amount){

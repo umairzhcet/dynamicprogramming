@@ -5,15 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9984dfb-e00e-40ae-b42f-acd3a4a9dc36" name="Default Changelist" comment="added DP problems">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/TestDeclare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/TestDeclare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/array/RainWaterTrapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/array/RainWaterTrapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarysearch/AllocateMinimumPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarysearch/AllocateMinimumPages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarytree/Diameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarytree/Diameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/CycleInDirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/CourseSchedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/MinimumCostToConnectAllPointsPrims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/Prims/MinimumCostToConnectAllPointsPrims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/TopologicalSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/CourseSchedule2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/ValidParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/ValidParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/bfs/RottenMangoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/bfs/RottenMangoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/recursion/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/recursion/Subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/umair/string/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/umair/string/GroupAnagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="dynamicprogramming" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,36 +54,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.umair.datastructures.Trie" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\moumair\IdeaProjects\dynamicprogramming\src\main\java\com\umair\datastructures\binarytree" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.umair.datastructures.graph" />
-      <recent name="com.umair.dynamicprogramming" />
-      <recent name="com.umair.recursion" />
-      <recent name="com.umair" />
+      <recent name="com.umair.datastructures.graph.Dijkstra" />
+      <recent name="com.umair.datastructures.array" />
+      <recent name="com.umair.bases" />
+      <recent name="com.umair.pattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KClosestElements (1)">
-    <configuration name="ContiguousArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.array.ContiguousArray" />
+  <component name="RunManager" selected="Application.CycleInUnDirectedGraph">
+    <configuration name="BipartiteGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.graph.BipartiteGraph" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.datastructures.array.*" />
+          <option name="PATTERN" value="com.umair.datastructures.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FourSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.array.FourSum2" />
+    <configuration name="CycleInDirectedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.graph.CycleInDirectedGraph" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.datastructures.array.*" />
+          <option name="PATTERN" value="com.umair.datastructures.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KClosestElements (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.binarysearch.KClosestElements" />
+    <configuration name="CycleInUnDirectedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.graph.CycleInUnDirectedGraph" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.datastructures.binarysearch.*" />
+          <option name="PATTERN" value="com.umair.datastructures.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KClosestElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.heap.KClosestElements" />
+    <configuration name="NoOfProvinces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.graph.NoOfProvinces" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.datastructures.heap.*" />
+          <option name="PATTERN" value="com.umair.datastructures.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RobotBoundedCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.umair.string.RobotBoundedCircle" />
+    <configuration name="SatisfiablilityOfEquations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umair.datastructures.graph.unionfind.SatisfiablilityOfEquations" />
       <module name="dynamicprogramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.umair.string.*" />
+          <option name="PATTERN" value="com.umair.datastructures.graph.unionfind.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KClosestElements (1)" />
-        <item itemvalue="Application.KClosestElements" />
-        <item itemvalue="Application.FourSum2" />
-        <item itemvalue="Application.RobotBoundedCircle" />
-        <item itemvalue="Application.ContiguousArray" />
+        <item itemvalue="Application.CycleInUnDirectedGraph" />
+        <item itemvalue="Application.SatisfiablilityOfEquations" />
+        <item itemvalue="Application.BipartiteGraph" />
+        <item itemvalue="Application.NoOfProvinces" />
+        <item itemvalue="Application.CycleInDirectedGraph" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +192,26 @@
       <workItem from="1594381953309" duration="8582000" />
       <workItem from="1596758211006" duration="1720000" />
       <workItem from="1599739628915" duration="121000" />
+      <workItem from="1682966417323" duration="13000" />
+      <workItem from="1682966440625" duration="7296000" />
+      <workItem from="1683361633515" duration="34242000" />
+      <workItem from="1683845233611" duration="18382000" />
+      <workItem from="1684753294829" duration="589000" />
+      <workItem from="1685617717768" duration="243000" />
+      <workItem from="1690110294800" duration="95085000" />
+      <workItem from="1701196774786" duration="1323000" />
+      <workItem from="1703525643680" duration="36712000" />
+      <workItem from="1704276606690" duration="41557000" />
+      <workItem from="1704718605534" duration="598000" />
+      <workItem from="1704925323082" duration="64524000" />
+      <workItem from="1706614034693" duration="14776000" />
+      <workItem from="1706866720673" duration="3610000" />
+      <workItem from="1707471695641" duration="8399000" />
+      <workItem from="1710678320328" duration="1589000" />
+      <workItem from="1711285922768" duration="12874000" />
+      <workItem from="1712829012529" duration="598000" />
+      <workItem from="1715694888479" duration="13476000" />
+      <workItem from="1717007899278" duration="2928000" />
     </task>
     <task id="LOCAL-00001" summary="added palindrome check">
       <created>1586335460646</created>
@@ -220,7 +259,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -232,7 +271,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added palindrome check" />
@@ -301,11 +339,6 @@
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/array/ThreeSum.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/umair/dynamicprogramming/longestcommonsubsequence/Heaters.java</url>
           <line>15</line>
           <option name="timeStamp" value="68" />
@@ -332,12 +365,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarysearch/AllocateMinimumPages.java</url>
-          <line>16</line>
+          <line>15</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarysearch/AllocateMinimumPages.java</url>
-          <line>35</line>
+          <line>34</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -395,20 +428,77 @@
           <line>15</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/array/ThreeSum.java</url>
-          <line>8</line>
-          <properties class="com.umair.array.ThreeSum" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="67" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/Dijkstra/MaximumProbabilityPath.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/Dijkstra/NetworkDelay.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/hashtable/HashTable.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/slidingwindow/LongestSubstringWithoutRepeatedCharacters.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/slidingwindow/SlidingWindowMaximum.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/ValidParanthesis.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/stack/GenerateParanthesis.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/backtracking/PermutationsOfArray.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/recursion/LetterCombinations.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/binarytree/ConstructBinaryTreeFromPreOrderAndInOrder.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/slidingwindow/SubstringWithConcatenationOfWords.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/slidingwindow/SubstringWithConcatenationOfWords.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/unionfind/SatisfiablilityOfEquations.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umair/datastructures/graph/unionfind/SatisfiablilityOfEquations.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="156" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="dp[0]" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

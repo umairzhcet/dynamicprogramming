@@ -1,6 +1,5 @@
 package com.umair.datastructures.stack;
 
-import jdk.nashorn.internal.IntDeque;
 
 import java.util.Stack;
 

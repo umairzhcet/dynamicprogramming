@@ -1,56 +1,60 @@
 package com.umair.dynamicprogramming.bfs;
 
 import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Set;
 
 public class RottenMangoes {
 
     public static void main(String[] args) {
 
-        int[][] grid={{2,1,1},{1,1,0},{0,1,1}};
-        int min=orangesRotting(grid);
+        int[][] grid = {{2, 1, 1}, {1, 1, 0}, {0, 1, 1}};
+        int min = orangesRotting(grid);
         System.out.println(min);
 
     }
 
     public static int orangesRotting(int[][] grid) {
 
-        Set<String > rotten=new HashSet<>();
-        Set<String> fresh=new HashSet<>();
-        for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[i].length;j++){
+        int time =0;
+        int fresh =0;
+        Queue<int[]> q= new LinkedList<>();
+        for(int i =0;i<grid.length;i++){
+            for(int j =0;j<grid[0].length;j++){
+                if(grid[i][j]==1){
+                    fresh++;
+                }
                 if(grid[i][j]==2){
-                    rotten.add(""+i+j);
-                }
-                else if(grid[i][j]==1){
-                    fresh.add(""+i+j);
-                }
-            }
-        }
-        int minutes=0;
-        int[][] directions={{0,-1},{0,1},{1,0},{-1,0}};
-        while(!fresh.isEmpty()){
-            Set<String> infected=new HashSet<>();
-            for (String s:rotten){
-                int i=s.charAt(0)-'0';
-                int j=s.charAt(1)-'0';
-                for(int[] d:directions){
-                  String newPos=""+(i+d[0])+(j+d[1]);
-                    if(fresh.contains(newPos)){
-                        fresh.remove(newPos);
-                        infected.add(newPos);
-                    }
+                    q.add(new int[]{i,j});
                 }
 
             }
-            if(infected.size()>0){
-                minutes++;
-                rotten=infected;
-            }
-            else{
-                return -1;
-            }
+
         }
-            return minutes;
+        if(fresh==0){
+            return 0;
+        }
+        int[][] directions={{0,1},{1,0},{-1,0},{0,-1}};
+        while(!q.isEmpty()){
+            int size= q.size();
+            time++;
+            for(int i=0;i<size;i++){
+                int[] rotten= q.poll();
+                for(int[] dir: directions){
+                    int x= rotten[0]+dir[0];
+                    int y= rotten[1]+dir[1];
+                    if(x<0 || y<0 || x>=grid.length || y>=grid[0].length || grid[x][y]!=1){
+                        continue;
+                    }
+                    q.add(new int[]{x,y});
+                    grid[x][y]=2;
+                    fresh--;
+
+                }
+            }
+
+        }
+        return fresh==0?time-1:-1;
     }
 }

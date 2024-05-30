@@ -15,6 +15,8 @@ public class GroupAnagrams {
             Arrays.sort(charArray);
             String sorted=new String(charArray);
 
+
+
             if(map.containsKey(sorted)){
                 list=map.get(sorted);
             }

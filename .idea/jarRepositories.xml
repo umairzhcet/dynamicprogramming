@@ -2,9 +2,34 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="releases-internal-releases" />
+      <option name="name" value="releases-internal-releases" />
+      <option name="url" value="https://artifactory.kindredgroup.com/artifactory/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases-public" />
+      <option name="name" value="releases-public" />
+      <option name="url" value="https://artifactory.kindredgroup.com/artifactory/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases-internal-snapshots" />
+      <option name="name" value="releases-internal-snapshots" />
+      <option name="url" value="https://artifactory.kindredgroup.com/artifactory/maven-pipeline-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus.curity.se" />
+      <option name="name" value="nexus.curity.se" />
+      <option name="url" value="https://nexus.curity.se/nexus/content/repositories/customer-release-repo/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="snapshots" />
       <option name="name" value="libs-snapshot" />
       <option name="url" value="https://build-artifactory.eng.vmware.com/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifactory.kindredgroup.com/artifactory/maven-public/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
@@ -30,6 +55,11 @@
       <option name="id" value="central" />
       <option name="name" value="libs-release" />
       <option name="url" value="https://build-artifactory.eng.vmware.com/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gatling-snapshots" />
+      <option name="name" value="gatling-snapshots" />
+      <option name="url" value="https://artifactory.kindredgroup.com/artifactory/maven-public/" />
     </remote-repository>
   </component>
 </project>
